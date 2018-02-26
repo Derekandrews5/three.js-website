@@ -1,0 +1,24 @@
+h1 {
+    
+    position: absolute;
+    width:100%;
+    color: #b7b7b7;
+    text-align: center;
+    background: rgba(204, 204, 204, 0);
+    overflow: hidden;
+    top:40%;
+    font-size: 300%;
+   	font-family: 'Audiowide';
+    
+
+}
+
+p{
+	position: absolute;
+	
+	background: rgba(0, 0, 0, 0);
+	color:black;
+	margin-left: 5px;
+	font-family: 'Audiowide';
+
+}
